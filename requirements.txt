@@ -1,0 +1,9 @@
+Cython==3.0.10
+gpiozero==2.0.1
+h5py==3.11.0
+matplotlib==3.8.4
+numpy==2.0.0
+opencv_python==4.9.0.80
+Pillow==10.4.0
+playsound==1.2.2
+simpleaudio==1.0.4
